@@ -1,0 +1,18 @@
+# ArcGIS
+*.gdb/
+*.lock
+*.aux
+*.ovr
+*.xml
+
+# Raster outputs
+*.tif
+*.tiff
+
+# Temp folders
+tile_tmp*
+hs_tmp*
+__pycache__/
+
+# Windows
+Thumbs.db
